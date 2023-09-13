@@ -16,8 +16,8 @@ if (nDeParcelas === 1) {
 } else {
     (nDeParcelas > 1)
 
-    const compraParcelada = valorDaCompra / nDeParcelas
+    const compraParcelada = (valorDaCompra / nDeParcelas).toFixed(2)
 
-    console.log(`Você irá pagar ${nDeParcelas} parcelas no valor de R$ ${compraParcelada} reais.`)
+    console.log(`Você irá pagar ${nDeParcelas} parcelas no valor de R$ ${compraParcelada} reais`)
 
 } 
