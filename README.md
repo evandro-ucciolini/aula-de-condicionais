@@ -1,1 +1,13 @@
 # aula-de-condicionais
+
+Operadores:
+
+>  MAIOR
+<  MENOR
+>= MAIOR OU IGUAL
+<= MENOR OU IGUAL
+=  IGUAL
+== IGUAL (PERGUNTA)
+=== IDÊNTICO (PERGUNTA)
+!== NÃO É IDÊNTICO (PERGUNTA)
+!= DIFERENTE (PERGUNTA)
